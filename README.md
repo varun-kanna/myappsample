@@ -1,2 +1,2 @@
 #MyApp
-This is my aoo
+This is my app
